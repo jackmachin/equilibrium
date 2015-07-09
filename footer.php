@@ -18,7 +18,7 @@
 			</address>
 
 			<ul id="contact-details">
-				<li id="telephone">0845 345 1979</li>
+				<li id="telephone">01672 515991</li>
 				<li id="email"><a href="mailto:enquiries@equilibrium-wm.co.uk">Send us an E-mail</a></li>
 			</ul>
 		</div><!--contact-->
