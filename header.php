@@ -94,7 +94,7 @@
 			<a href="<?php bloginfo('url'); ?>"><span>Equilibrium Wealth Management Limited</span></a>
 		</div><!--logo -->
 
-		<h3 class="header-tel">0845 345 1979</h3>
+		<h3 class="header-tel">01672 515991</h3>
 
 		<?php wp_nav_menu('leftnav'); ?>
 
