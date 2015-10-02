@@ -68,6 +68,14 @@
 		<p><small>Registered in England and Wales No: 3053936. Registered Office: Paradigm House, Brooke Court, Wilmslow, Cheshire, SK9 3ND.</small></p>
 		<p><small><?php bloginfo('name'); ?> is a subsidiary of Perspective Financial Group Limited.</small></p>
 		<p><small><?php bloginfo('name'); ?> is authorised and regulated by the Financial Conduct Authority.</small></p>
+        <p><small>Should you have cause to complain, and you are not satisfied with our response to your complaint, you may be able to refer it to the Financial Ombudsman Service, which can be contacted as follows:</small></p>
+<address>
+    <small>The Financial Ombudsman Service
+Exchange Tower, London, E14 9SR</small>
+    </address>
+<p><small>Tel: 0800 023 4567 or 0300 123 9 123</small></p>
+<p><small><a href="http://www.financial-ombudsman.org.uk">www.financial-ombudsman.org.uk</a></small></p>
+
 
 		<ul class="footer-links">
 			<li><a href="/sitemap.xml">Sitemap</a> | </li>
@@ -76,7 +84,6 @@
 
 		<ul>
 			<li>&copy; <?php bloginfo('name'); ?> <?php echo date('Y'); ?>. All rights reserved. | </li>
-			<li>Web design by <a id="oiLogo" href="http://www.space48.com"><span>Space 48</span></a></li>
 		</ul>
 </div><!--footer-->
 
