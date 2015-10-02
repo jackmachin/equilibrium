@@ -73,7 +73,6 @@
         <p><small>Tel: 0800 023 4567 or 0300 123 9 123</small></p>
         <p><small><a href="http://www.financial-ombudsman.org.uk">www.financial-ombudsman.org.uk</a></small></p>
 
-
 		<ul class="footer-links">
 			<li><a href="/sitemap.xml">Sitemap</a> | </li>
 			<li><a href="/find-us">Find Us</a></li>
